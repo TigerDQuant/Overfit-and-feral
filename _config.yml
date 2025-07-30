@@ -1,0 +1,4 @@
+title: Anonymous Math Blog
+theme: minima
+plugins:
+  - jekyll-feed
